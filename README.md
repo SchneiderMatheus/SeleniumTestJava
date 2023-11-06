@@ -1,18 +1,11 @@
-## Getting Started
+#Set the path of the chrome exacutable
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+#Navigate to the sebsite to be tested
 
-## Folder Structure
+#Find the username field and enter a username
 
-The workspace contains two folders by default, where:
+#find the password field and enter a password
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+#click the login button to login
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+#Verify that the login was successful
